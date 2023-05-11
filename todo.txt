@@ -2,3 +2,6 @@
 2. Prove Random forest is overfitting with MSE
 3. Split Notebooks into Viz and ML
 4. Team winning percentage while batting first and bowling first
+5. The team with the most number of wins per season. Add Observations.
+6. Add Proof for "When defending a total, the biggest victory was by 146 runs.<br>" 146?
+7. Hallucinating AI text instances at Matches won while defending needs rewrite or skip

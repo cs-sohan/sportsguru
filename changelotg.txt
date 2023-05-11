@@ -1,7 +1,0 @@
-1) Added Observations and findings
-2) Teams that won the most number of Toss
-3) Most valuable players
-4) The team with the most number of wins per season
-5) Umpires who have officiated the most number of IPL matches on-field
-6) Impact on winning the Toss
-7) Impact on Chasing vs Defending
