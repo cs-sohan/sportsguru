@@ -1,4 +1,4 @@
-1. Toss Decision Winrate
-2. Top 10 POTM
-3. Home Away Win Percentage
-4. Prove Random forest is overfitting with MSE
+1. Home Away Win Percentage
+2. Prove Random forest is overfitting with MSE
+3. Split Notebooks into Viz and ML
+4. Team winning percentage while batting first and bowling first
